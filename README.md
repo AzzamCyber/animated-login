@@ -57,10 +57,8 @@ It combines:
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AzzamCyber/loginpage/main/preview.png" width="700" alt="Animated Login Page Preview" />
+  <img src="https://raw.githubusercontent.com/AzzamCyber/animated-login/main/preview.png" width="700" alt="Animated Login Page Preview" />
 </p>
-
-*(If preview doesn’t load, open `/preview.gif` or `/screenshot.png` manually)*
 
 ---
 
@@ -68,10 +66,10 @@ It combines:
 
 ```bash
 # Clone this repository
-git clone https://github.com/AzzamCyber/animated-login-tailwind.git
+git clone https://github.com/AzzamCyber/animated-login.git
 
 # Move into directory
-cd animated-login-tailwind
+cd animated-login
 
 # Open in your local environment
 php -S localhost:8080
