@@ -57,7 +57,7 @@ It combines:
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AzzamCyber/animated-login-tailwind/main/preview.gif" width="700" alt="Animated Login Page Preview" />
+  <img src="https://raw.githubusercontent.com/AzzamCyber/loginpage/main/preview.png" width="700" alt="Animated Login Page Preview" />
 </p>
 
 *(If preview doesn’t load, open `/preview.gif` or `/screenshot.png` manually)*
