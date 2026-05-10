@@ -62,7 +62,7 @@ It combines:
 
 ---
 
-## ⚙️ How to Use
+## ⚙️ How to Use 
 
 ```bash
 # Clone this repository
