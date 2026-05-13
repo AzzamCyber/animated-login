@@ -3,7 +3,7 @@
 <h1 align="center">✨ Animated Login & Register Page — TailwindCSS Edition ✨</h1>
 
 <p align="center">
-  <b>Modern landing page with animated Login & Register sections built using TailwindCSS, AOS, and pure JavaScript.</b>
+  <b>Modern landing page with animated Login & Register sections built using TailwindCSS, AOS, and pure JavaScript Azzam Codex Dev.</b>
 </p>
 
 <p align="center">
